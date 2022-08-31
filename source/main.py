@@ -42,7 +42,7 @@ wbm=[13,16]
 class client:
   commands=[
     "owo hunt",
-    "owo hunt",
+    "owo battle",
     "owo battle"
     ]
   totalcmd = 0
