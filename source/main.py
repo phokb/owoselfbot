@@ -38,12 +38,12 @@ print("""\
 
 **Version: 1.0.2**""")
 print("Alright! If You See Someone Selling This Code Then He/She Is Scamming [READ INFO]")
-wbm=[13,16]
+wbm=[10,11]
 class client:
   commands=[
-    "owo hunt",
-    "owo battle",
-    "owo battle"
+    "owo ",
+    "owo ",
+    "owo "
     ]
   totalcmd = 0
   totaltext = 0
